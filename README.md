@@ -1,1 +1,2 @@
-# -VISOR-DE-EQUIPOS
+#VISOR-DE-EQUIPOS
+Es necesario actualizar el sistema de préstamo y recepción de equipos que emplea la universidad santo tomas en los laboratorios ETM para solucionar problemas de seguridad y escalabilidad que presenta el sistema actual. El cambio a una arquitectura orientada a servicios permite prestar nuevas funcionalidades. La aplicación actual permite la consulta rápida de la información de los equipos que se encuentran actualmente prestados.
